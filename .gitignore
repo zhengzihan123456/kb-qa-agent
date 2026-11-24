@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.local
+data/kb.json
+data/kb.json.tmp
+.DS_Store
+*.log
+.wbapp_*.genie
+.workbuddy/

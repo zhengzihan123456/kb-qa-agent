@@ -1,0 +1,15 @@
+{
+  "name": "kb-qa-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "知识问答 Agent —— 基于自有知识库作答，每条结论都带原文引用与定位",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
